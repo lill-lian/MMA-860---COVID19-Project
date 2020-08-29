@@ -1,5 +1,5 @@
-# MMA-860---COVID19-Project
-## COVID19 Death (in U.S.) Calculator on Shiny
+# MMA 860 - COVID-19 Project
+## COVID-19 Death (in U.S.) Calculator on Shiny
 
 Package used: Shiny
 
