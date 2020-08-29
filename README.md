@@ -22,7 +22,8 @@ In the first sub-tab, we included three sections:
 In the second sub-tab, we documented the model formulation we developed in the Point Estimation phase. In Shiny R, we were able to combine both the calculation results and model documentation together for reference.
 
 
-## Point Estimate Analysis which is not included in Shiny Calculator files
+## Point Estimate Analysis 
+### which is not included in Shiny Calculator files
 
 Point Estimate Analysis – Explanation Model of the Number of Deaths 
 
