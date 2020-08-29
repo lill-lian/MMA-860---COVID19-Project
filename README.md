@@ -1,5 +1,5 @@
 # MMA-860---COVID19-Project
-# COVID19 Death (in U.S.) Calculator on Shiny
+## COVID19 Death (in U.S.) Calculator on Shiny
 
 Package used: Shiny
 
@@ -33,7 +33,7 @@ After removing all the insignificant variables, we re ran the model including on
 
 Deaths from COVID-19 = 22.1 + 0.054 * Positive - 0.297 * Positive Increase - 0.002 * Negative + 0.059 * Hospitalized + 0.067 * Current Hospitalized - 0.183 * Current Hospitalized Increase + 3.941 * Current On Ventilator Increase
 
-## Data Plot
+### Data Plot
 
 The 1st plot Residuals vs Fitted shows the data plotted are evenly distributed around 0 on the y-axis.  This is okay as the very few residuals are mostly on the right-hand side and relatively shapeless. It also justifies the assumptions of the relationship between the dependent variable Y and the predicted variable Y_bar being linear.  There is also equal variance along the regression line (i.e. homoskedasticity).
 
